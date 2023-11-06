@@ -19,7 +19,7 @@ const Jumbotron = () => {
       <img className="logo" src={Iphone} alt="iPhone 14 Pro" />
       <p className="text">Big and bigger.</p>
       <span className="description">
-        Only $999. It is worth less, but who cares!
+        Only $999. It worth less, but who cares!
       </span>
       <ul className="links">
         <li>
